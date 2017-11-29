@@ -175,7 +175,7 @@ public class JFrameGame extends javax.swing.JFrame {
             
             
         } catch (Exception e) {
-            System.out.println("aaaaaaaaaaaaaa");
+            System.out.println("aaaaaaaaaaaaaauooooooooo");
         }
        
     }//GEN-LAST:event_checkAnswerButtonActionPerformed
